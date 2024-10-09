@@ -1,0 +1,10 @@
+function s=giou(pred,gt)
+Ibox=In(pred,gt);
+I=(Ibox.b-Ibox.t)*(Ibox.r-Ibox.l);
+U=(pred.b-pred.t)*(pred.r-pred.l)+(gt.b-gt.t)*(gt.r-gt.l)-I;
+IoU=iou(pred,gt);
+Cbox=cover(pred,gt);
+C=(Cbox.b-Cbox.t)*(Cbox.r-Cbox.l);
+AaddB=U-I;
+p_s=IoU-(abs(C-AaddB)/C);
+s=(p_s+1)/2;
