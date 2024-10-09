@@ -15,7 +15,7 @@ We designed the CHFV model to verify Chinese herbal formula images. However, the
 | CHF   | None  | 85.25        | 1.83 |
 | CHF   | Recon | 89.75(+4.50) | 1.73 |
 
-Use pretrained cm54.pt to predict CHF44 Dataset:[Click here to download comparative experimental data](https://github.com/Wenhua-Zheng/CHFV/releases)
+Use pretrained cm54.pt to predict CHF44 Dataset:[Click here to download cm54.pt and CHF44 Dataset](https://github.com/Wenhua-Zheng/CHFV/releases)
 
 ``` shell
 python CHF_model/main.py --language English --conf_reweight True --weights cm54.pt --source inference/prescriptions
