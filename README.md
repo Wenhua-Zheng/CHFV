@@ -20,11 +20,7 @@ Use pretrained cm54.pt to predict CHF44 Dataset:
 ``` shell
 python CHF_model/main.py --language English --conf_reweight True --weights cm54.pt --source inference/prescriptions
 ```
-
-![1-zss-003-Chinese](CHF_model\runs\1-zss-003-Chinese.jpg)
-
-![1-zss-003-English](CHF_model\runs\1-zss-003-English.jpg)
-
+Use pretrained cm54.pt to predict CHF44 Dataset:[Click here to download comparative experimental data](https://github.com/Wenhua-Zheng/CHFV/releases)
 
 
 ## Simulation experiments
@@ -42,7 +38,3 @@ use the previous results directly to draw a graph.
 ```matlab
 matlab simulation experiments/real_1715k.m --is_regresion = 0
 ```
-
-| ![all_points](simulation experiments\results\all_points.svg) | ![all_error](simulation experiments\results\all_error.svg)   |
-| :----------------------------------------------------------- | ------------------------------------------------------------ |
-| (a) Simulate all possible cases.                             | (b) Sum up each case in each epoch to obtain the  regression error curve. |
