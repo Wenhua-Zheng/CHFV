@@ -1,0 +1,16 @@
+﻿{"止嗽散": "Cough Powder", "定喘汤": "Asthma-Reliving Decoction", "二陈汤": "Erchen decoction",
+"百部丸": "Baibu Powder", "止咳宁嗽": "Zhike Ningsou Decoction", "厚朴麻黄汤": "Houpu Mahuang Decoction",
+"杏苏散": "Xingsu Powder", "三拗汤": "Sanao Decoction", "加减七气汤": "Qiqi Decoction",
+"半瓜丸": "Bangua Powder", "清咽宁肺汤": "Qingyan Ningfei Decoction",
+"清金化痰汤": "Qingjin Huatan Decoction", "二母宁嗽汤": "Anemarrhena and Fritillaria Cough-Quieting Decoction",
+"清金降火汤": "Qingjin Jianghuo Decoction", "温肺汤": "Wenfei Decoction", "苏子汤": "Suzi Decoction",
+"理中汤": "Lizhong Decoction", "加味补肺汤": "Bufei Decoction", "黄芪汤": "Huangqi Decoction",
+"加味人参黄芪汤": "Renshen Huangqi Decoction", "小青龙汤": "Small Qinglong Decoction", "大青龙汤": "Major Blue Dragon Decoction",
+"山东中草药手册：治感冒咳嗽": "SD Ganmao Kesou Decoction", "白芍甘草汤": "Baishao Gancao Decoction",
+"小柴胡汤": "Small Chaihu Decoction", "大柴胡汤": "Major Chaihu Decoction", "甘草附子汤": "Gancao Fuzi Decoction",
+"苓桂术甘汤": "Lingguishugan Decoction", "麻杏甘石汤": "Maxinganshi Decoction", "葛根汤": "Gegen Decoction",
+"葛根芩莲汤": "Gegenlinglian Decoction", "白虎汤": "Baihu Decoction", "桂枝汤": "Guizhi Decoction",
+"麻黄汤": "Mahuang Decoction", "人参汤": "Renshen Decoction", "真武汤": "Zhenwu Decoction",
+"半夏泻心汤": "Banxia Xiexin Decoction", "半夏厚朴汤": "Banxia Houpu Decoction",
+"甘草泻心汤": "Gancao Xiexin Decoction", "附子粳米汤": "Fuzi Jingmi Decoction", "甘麦大枣汤": "Ganmai Dazao Decoction"
+}
